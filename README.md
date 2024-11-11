@@ -139,7 +139,7 @@ A great tip for this section is to include them as you use them, that way you wo
 
 ## Deployment & Local Development
 
-👩🏻‍💻 View an example of a completed Deployment & Local Development section [here](https://github.com/kera-cudmore/TheQuizArms#Deployment)
+👩🏻‍💻 View an example of a completed Deployment & Local Development section [here](https://github.com/)
 
 ### Deployment
 
