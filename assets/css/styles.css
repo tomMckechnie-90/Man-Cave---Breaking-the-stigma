@@ -6,42 +6,66 @@
     --heading-font: 'Poppins', sans-serif;
     --sub-heading-font: 'Rozha one', serif;
     --body-font: 'Enriqueta', serif;
-    --primary-color: #14213D; /* Dark Blue */
-    --secondary-color: #E5E5E5; /* Light Gray */
+    --secondary-color: #14213D; /* Dark Blue */
+    --primary-color: #E5E5E5; /* Light Gray */
     --highlight-color: #FCA311; /* Yellow */
     --font-color: #FFFFFF; /* White */
 }
-
+/* Global styles */
 body {
-    background-color: var(--primary-color);
-    color: var(--font-color);
+    background-color: var(--highlight-color);
+    color: var(--secondary-color);
     font-family: var(--body-font);
   }
   
-  h1, h2, h3 {
+  h1{
     font-family: var(--heading-font);
-    color: var(--font-color);
+    color: var(--secondary-color);
+    text-transform: uppercase;
   }
-  
-  a{
-    color: var(--primary-color);
+
+  h2, h3, h4, h5, h6{
+    font-family: var(--sub-heading-font);
+    color: var(--secondary-color)
   }
-  
-  
-  button:hover {
-    background-color: var(--orange);
-  }
-  
-  nav {
+
+
+#navbar{
     background-color: var(--secondary-color);
-    color: #000000;
     padding: 10px;
   }
+
+    /* Header */
+    header{
+        background-color: var(--highlight-color);
+        color: var(--secondary-color);
+        padding: 100px;
+        text-align: center;
+      }
+
+  /* Carousel */
+#affirmations .carousel{
+    background-color: var(--secondary-color);
+    color: var(--font-color);
+    padding: 50px;
+    margin-bottom: 50px;
+  }
+
+
+    /* Resources */
+    .resources-intro{
+        padding: 50px;
+    }
+
+    #resources .card{
+        background-color: slategrey;
+        color: var(--secondary-color);
+      }
   
   footer {
     background-color: var(--secondary-color);
-    color: #000000;
-    padding: 20px;
+    color: #FFFFFF;
+    padding: 100px;
     text-align: center;
   }
   
