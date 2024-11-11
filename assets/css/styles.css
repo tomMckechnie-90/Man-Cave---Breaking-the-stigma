@@ -3,69 +3,81 @@
 
 /* CSS Variables */
 :root {
-    --heading-font: 'Poppins', sans-serif;
-    --sub-heading-font: 'Rozha one', serif;
-    --body-font: 'Enriqueta', serif;
-    --secondary-color: #14213D; /* Dark Blue */
-    --primary-color: #E5E5E5; /* Light Gray */
-    --highlight-color: #FCA311; /* Yellow */
-    --font-color: #FFFFFF; /* White */
+  --heading-font: 'Poppins', sans-serif;
+  --sub-heading-font: 'Rozha one', serif;
+  --body-font: 'Enriqueta', serif;
+  --highlight-color: #14213D;
+  /* Dark Blue */
+  --primary-color: #E5E5E5;
+  /* Light Gray */
+  --secondary-color: #FCA311;
+  /* Yellow */
+  --font-color: #FFFFFF;
+  /* White */
 }
+
 /* Global styles */
 body {
-    background-color: var(--highlight-color);
-    color: var(--secondary-color);
-    font-family: var(--body-font);
-  }
-  
-  h1{
-    font-family: var(--heading-font);
-    color: var(--secondary-color);
-    text-transform: uppercase;
-  }
+  background-color: var(--primary-color);
+  color: var(--highlight-color);
+  font-family: var(--body-font);
+}
 
-  h2, h3, h4, h5, h6{
-    font-family: var(--sub-heading-font);
-    color: var(--secondary-color)
-  }
+h1 {
+  font-family: var(--heading-font);
+  color: var(--highlight-color);
+  text-transform: uppercase;
+}
 
-
-#navbar{
-    background-color: var(--secondary-color);
-    padding: 10px;
-  }
-
-    /* Header */
-    header{
-        background-color: var(--highlight-color);
-        color: var(--secondary-color);
-        padding: 100px;
-        text-align: center;
-      }
-
-  /* Carousel */
-#affirmations .carousel{
-    background-color: var(--secondary-color);
-    color: var(--font-color);
-    padding: 50px;
-    margin-bottom: 50px;
-  }
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--sub-heading-font);
+  color: var(--font-color)
+}
 
 
-    /* Resources */
-    .resources-intro{
-        padding: 50px;
-    }
+#navbar {
+  background-color: var(--highlight-color);
+  padding: 10px;
+}
 
-    #resources .card{
-        background-color: slategrey;
-        color: var(--secondary-color);
-      }
-  
-  footer {
-    background-color: var(--secondary-color);
-    color: #FFFFFF;
-    padding: 100px;
-    text-align: center;
-  }
-  
+/* Header */
+#header .hero-section {
+  background-color: var(--primary-color);
+  color: var(--highlight-color);
+  /* padding: 100px; */
+  text-align: left;
+}
+
+#img-container .hero-img{
+
+}
+
+/* Carousel */
+#affirmations .carousel {
+  background-color: var(--highlight-color);
+  color: var(--font-color);
+  padding: 50px;
+  margin-bottom: 50px;
+}
+
+
+/* Resources */
+.resources-intro {
+  padding: 50px;
+}
+
+#resources .card {
+  background-color: var(--primary-color);
+  color: var(--highlight-color);
+}
+
+footer {
+  background-color: var(--highlight-color);
+  color: #FFFFFF;
+  padding: 100px;
+  text-align: center;
+}
