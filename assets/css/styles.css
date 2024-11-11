@@ -48,13 +48,9 @@ h6 {
 #header .hero-section {
   background-color: var(--primary-color);
   color: var(--highlight-color);
-  /* padding: 100px; */
   text-align: left;
 }
 
-#img-container .hero-img{
-
-}
 
 /* Carousel */
 #affirmations .carousel {
