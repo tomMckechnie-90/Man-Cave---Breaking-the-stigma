@@ -104,9 +104,25 @@ h6 {
   color: var(--font-color);
 }
 
+/* tips */
+.tips-intro {
+  padding: 50px;
+}
+
+#tips .card {
+  background-color: var(--primary-color);
+  color: var(--highlight-color);
+  border-color: var(--highlight-color);
+}
+
+.card-body:hover{
+  background-color: var(--highlight-color);
+  color: var(--font-color);
+}
+
 footer {
   background-color: var(--highlight-color);
   color: #FFFFFF;
-  padding: 100px;
+  padding: 50px;
   text-align: center;
 }
