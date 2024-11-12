@@ -103,6 +103,7 @@ h6 {
 .card-body:hover{
   background-color: var(--highlight-color);
   color: var(--font-color);
+  transition: color 0.3s ease-in-out;
 }
 
 /* tips */
@@ -114,6 +115,7 @@ h6 {
   background-color: var(--primary-color);
   color: var(--highlight-color);
   border-color: var(--highlight-color);
+  transition: color 0.3s ease-in-out;
 }
 
 .card-body:hover{
@@ -128,4 +130,10 @@ footer {
   color: #FFFFFF;
   padding: 50px;
   text-align: center;
+}
+
+.social-links i {
+  font-size: 1.9rem;
+  padding: 15px;
+  transition: color 0.3s ease-in-out;
 }
