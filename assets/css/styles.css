@@ -121,6 +121,8 @@ h6 {
   color: var(--font-color);
 }
 
+/* Footer */
+
 footer {
   background-color: var(--highlight-color);
   color: #FFFFFF;
