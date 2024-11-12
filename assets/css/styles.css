@@ -50,7 +50,32 @@ h6 {
   color: var(--highlight-color);
   text-align: left;
 }
+/* Button styles */
+.header-btn{
+  background-color: var(--secondary-color);
+  color: var(--highlight-color);
+  border-color: var(--secondary-color);
+  border-radius: 1px;
+}
 
+.header-btn:hover{
+  background-color: var(--highlight-color);
+  color: var(--font-color);
+  border-color: var(--highlight-color);
+}
+
+.resources-btn{
+  background-color: var(--secondary-color);
+  color: var(--highlight-color);
+  border-color: var(--secondary-color);
+  border-radius: 1px;
+}
+
+.resources-btn:hover{
+  background-color: var(--primary-color);
+  color: var(--highlight-color);
+  border-color: var(--primary-color);
+}
 
 /* Carousel */
 #affirmations .carousel {
@@ -60,9 +85,7 @@ h6 {
   margin-bottom: 50px;
 }
 
-#quotes .quotes-img{
-  
-}
+
 
 
 /* Resources */
@@ -73,6 +96,12 @@ h6 {
 #resources .card {
   background-color: var(--primary-color);
   color: var(--highlight-color);
+  border-color: var(--highlight-color);
+}
+
+.card-body:hover{
+  background-color: var(--highlight-color);
+  color: var(--font-color);
 }
 
 footer {
