@@ -171,28 +171,38 @@ Github Pages was used to deploy the live website. The instructions to achieve th
 
 ### Validators
 
-[CSS Validator](docs/css-validator.png)
 
-[HTML Validator](docs/html-validator.png)
+#### CSS Validation
+
+![CSS Validator](documentation/css%20test.jpg)
+
+#### HTML Validation
+
+##### Home Page
+![HTML Validator](documentation/html%20test%20home%20page.jpg)
+
+##### Tips Page
+
+![HTML Validator](documentation/html%20test%20tips%20page.jpg)
+
 
 ## Credits
 
-### Code Used
-
-If you have used some code in your project that you didn't write, this is the place to make note of it. Credit the author of the code and if possible a link to where you found the code. You could also add in a brief description of what the code does, or what you are using it for here.
-
-### Content
-
-Content for the website was created by me with some assistance from.....
 
 ###  Media
 
-The Images from my site were all taken from.....
+The Images from my site were genrated using Adobe Firefly and Microsoft copilot
 
-I converted my images to WEBP using [Pixelied](https://pixelied.com/convert/png-converter/png-to-webp)
+# The use of AI in my project
+
+I found AI to be really useful in helping me create paragraphs for my webpage this saved me loads of time as I did not have to type a full paragraph myself just edit the ones AI generated for me.
+
+I also used AI to generate all the images on my webpage, again saving me time searching the web I found Adobe Firefly pleasent to use.
+
+I used Copilot in VScode to generate my header section using bootstrap 5.3 just to see what it came up with and I ended up liking the end result and keeping it the code it gave me.
   
 ###  Acknowledgments
 
-My family for their patience and understanding whilst I was completing this project.
+[Amy Richardson](https://github.com/amylour) For her helpful resources.
+[Roo MacArthur](https://github.com/roomacarthur) For his help on spacing my cards on the smaller screens.
 
-[Amy Richardson](https://github.com/amylour) For her assistance and helpful resources.
