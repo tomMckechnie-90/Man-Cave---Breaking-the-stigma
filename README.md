@@ -146,7 +146,7 @@ In my project I have aria-labels and names attached to all my links for screen r
 Github Pages was used to deploy the live website. The instructions to achieve this are below:
 
 * Log in (or sign up) to Github.
-* Find the repository for this project, Bully-Book-Club.
+* Find the repository for this project, Man-Cave-Breaking-the-stigma.
 * Click on the Settings link.
 * Click on the Pages link in the left hand side navigation bar.
 * In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
@@ -156,18 +156,13 @@ Github Pages was used to deploy the live website. The instructions to achieve th
 ## Testing
 
 ### Lighthouse testing
+##### Home page
+![Lighthouse home page](documentation/lighthouse%20home.jpg)
 
-[Lighthouse home page web version](file path to image here)
 
-[Lighthouse home page mobile version](file path to image here)
+##### Tips page
+![Lighthouse Tips page](documentation/lighthouse%20tips.jpg)
 
-[Lighthouse get help page web](file path to image here)
-
-[Lighthouse get help page mobile](file path to image here)
-
-[Lighthouse how to cope page web](file path to image here)
-
-[Lighthouse how to cope page mobile](file path to image here)
 
 ### Validators
 
@@ -195,7 +190,15 @@ The Images from my site were genrated using Adobe Firefly and Microsoft copilot
 
 # The use of AI in my project
 
-I found AI to be really useful in helping me create paragraphs for my webpage this saved me loads of time as I did not have to type a full paragraph myself just edit the ones AI generated for me.
+**Most used AI: Microsoft Copilot**
+
+**AI Used for Images: Adobe firefly and Microsoft Copilot**
+
+
+AI was used in the planning phase to help me with user stories.
+
+I found AI to be really useful in helping me create paragraphs for my webpage this saved me loads of time as I did not have to type a full paragraph myself just edit the ones AI generated for me. Also came in handy for ideas for keywords to use for SEO. 
+
 
 I also used AI to generate all the images on my webpage, again saving me time searching the web I found Adobe Firefly pleasent to use.
 
