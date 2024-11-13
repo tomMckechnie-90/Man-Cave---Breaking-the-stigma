@@ -39,7 +39,11 @@ h6 {
   text-transform: uppercase;
 }
 
+.card {
+  height: 100%;
+}
 
+/* navbar */
 #navbar {
   background-color: var(--highlight-color);
   padding: 10px;
@@ -120,6 +124,10 @@ h6 {
   margin-bottom: 1.5rem;
 }
 
+.tips-videos {
+  margin-top: 4rem;
+}
+
 .card-body:hover{
   background-color: var(--highlight-color);
   color: var(--font-color);
@@ -132,6 +140,7 @@ footer {
   color: #FFFFFF;
   padding: 50px;
   text-align: center;
+  margin-top: 1.5rem;
 }
 
 .social-links i {
@@ -144,15 +153,6 @@ footer {
 
 /* Media Queries */
 
-/* for tabelets 768px */
-@media screen and (max-width: 768px) {
-  #resources .card {
-    min-height: 345px;
-  }
-  
-  #tips .card {
-    min-height: 543px;
-  }
-}
+
 
 
