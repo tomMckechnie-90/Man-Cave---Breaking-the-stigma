@@ -67,51 +67,54 @@ So that I can feel more confident about seeking professional help.
 
 ### Colour Scheme
 
-![Man Cave Palette](<file path to palette image here>)
+![Man Cave Palette](<documentation/colour palette.jpg>)
 
-I chose this colour palette because I thought it combines a strong, modern look with the right balance of contrast and readability.
+I chose this colour palette as I think it is a nice warm welcoming palette.
 
 
 ### Typography
 
-Use this area to explain my choice of fonts.
+I chose these fonts as I thought they looked informative and welcoming. I used Poppins for any Headings, Rozha One for any sub headings and Enriqueta for any paragraphs.
+
+![Man Cave Typography](<documentation/fonts.jpg>)
 
 
 
 ### Imagery
 
-Use this section to explain what sort of imagery you plan to use through your site.
+For Images I used AI to generate the images. I used a combo of Adobe Firefly and Microsoft Co-pilot.
+
 
 ### Wireframes
 
 I made my wireframes using Balsamiq.
 
-![Man Cave - Home](file path)
+![Man Cave - Home](<documentation/Wirefram Home page.jpg>)
 
-![Man Cave - Helpful tips](file path)
+![Man Cave - Tips](<documentation/Wirefram Tips page.jpg>)
 
-
-
-![Mobile Home](file path)
-
-![Tablet Home](file path)
 
 ## Features
 
-My site is made up of a Home page containing positive affirmations and Resources and the tips page containing videos with helpful advice.
+My site is made up of a Home page containing positive affirmations and Resources and the tips page containing tips and videos with helpful advice.
+
+### Desktop, laptop, Tablet & Mobile View
 
 ### General features on each page
 
 General features that reoccur on each page are the navbar, footer, favicon, 
 
-![General Features on each page](file path to favicon)
+![Favicon](documentation/apple-touch-icon.png)
+![Navbar](documentation/navbar.jpg)
+![Footer](documentation/footer.jpg)
 
 ### Future Implementations
 
+I would add a page for a general mental health questionnaire for users to take when they visit the page. This would trigger them to get help if they mark lower then a certain score.
 
 ### Accessibility
 
-In my project I have added.....
+In my project I have aria-labels and names attached to all my links for screen readers.
 
 
 ## Technologies Used

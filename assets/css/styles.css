@@ -59,6 +59,7 @@ h6 {
   background-color: var(--primary-color);
   color: var(--highlight-color);
   text-align: left;
+  margin-bottom: -1.5rem;
 }
 /* Button styles */
 
@@ -135,7 +136,8 @@ h6 {
 
 /* tips */
 .tips-intro {
-  padding: 50px;
+  padding-top: 100px;
+  padding-bottom: 50px;
 }
 
 #tips .card {
