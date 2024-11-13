@@ -1,10 +1,8 @@
 # Man Cave -  Breaking the stigma
 
-Man Cave is a safe place to go for young men on how to cope easier with mental health. Man Cave has been developed as part of Code Institute's Full Stack Development for the AI Augmented Developer as my 1st ever project. This project is made by using HTML, CSS and Bootstrap. Men's Mental Health is a something that I believe in a lot as young man who battled my with own mental health in the past it was a no brainer to cover this topic for my first project.
+Man Cave is a safe place to go for young men on how to cope easier with mental health. Man Cave has been developed as part of Code Institute's Full Stack Development for the AI Augmented Developer as my 1st ever project. This project is made by using HTML, CSS and Bootstrap. Men's Mental Health is a something that I believe in a lot as young man who battled my with own mental health in the past it was a no brainer to cover this topic for my first project. [Man Cave](https://tommckechnie-90.github.io/Man-Cave-Breaking-the-stigma/)
 
-(Screenshot of responsiveness here)
-
----
+![Man Cave - Devices view](<documentation/devices.jpg>)
 
 ## CONTENTS
 
@@ -98,7 +96,9 @@ I made my wireframes using Balsamiq.
 
 My site is made up of a Home page containing positive affirmations and Resources and the tips page containing tips and videos with helpful advice.
 
-### Desktop, laptop, Tablet & Mobile View
+## Desktop, laptop, Tablet & Mobile View
+
+![Man Cave - Devices view](<documentation/devices.jpg>)
 
 ### General features on each page
 
@@ -126,23 +126,20 @@ In my project I have aria-labels and names attached to all my links for screen r
 
 ### Frameworks, Libraries & Programs Used
 
-Add any frameworks, libraries or programs used while creating your project.
-
-Make sure to include things like git, GitHub, the program used to make your wireframes, any programs used to compress your images, did you use a CSS framework like Bootstrap? If so add it here (add the version used).
-
-A great tip for this section is to include them as you use them, that way you won't forget what you ended up using when you get to the end of your project.
 
 * Balsamiq - To create the wireframes
 * Git - For version control
 * Github - To save and store my project
-* Bootstrap 5.3 - The framework for my project, this was used for my header, the modal and the cards.
+* Bootstrap 5.3 - The framework for my project, this was used for my header, the carousel and the cards.
+* Google Fonts - For importing the font used in my project
+* Font Awesome - For the icons for my social media links
 
 
 
 
-## Deployment & Local Development
+## Deployment
 
-👩🏻‍💻 View an example of a completed Deployment & Local Development section [here](https://github.com/)
+👩🏻‍💻 View my deployed page [here](https://tommckechnie-90.github.io/Man-Cave-Breaking-the-stigma/)
 
 ### Deployment
 
@@ -155,17 +152,6 @@ Github Pages was used to deploy the live website. The instructions to achieve th
 * In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
 * Click Save. Your live Github Pages site is now deployed at the URL shown.
 
-### Local Development
-
-The local development section gives instructions on how someone else could make a copy of your project to play with on their local machine. This section will get more complex in the later projects, and can be a great reference to yourself if you forget how to do this.
-
-#### How to Fork
-
-Place instructions on how to fork your project here.
-
-#### How to Clone
-
-Place instructions on how to clone your project here.
 
 ## Testing
 
